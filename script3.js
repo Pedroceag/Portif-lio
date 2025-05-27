@@ -1,8 +1,11 @@
+
 let num1;
 let num2;
 let num3;
 let resultado;
 let passouounao;
+
+String(window.prompt("digite seu nome"));
 
 num1 = Number(window.prompt("primeiro trimestre"));
 num2 = Number(window.prompt("segundo trimestre"));
@@ -20,6 +23,5 @@ if(resultado >= 60)  {
 
 } else {
     total = 60 - resultado
-    alert("Você reprovou! Falatou essa quantidade de pontos para passar: " + total)
+    alert("Você reprovou! Faltou essa quantidade de pontos para passar: " + total + " https://mimo.org/")
 }
-
