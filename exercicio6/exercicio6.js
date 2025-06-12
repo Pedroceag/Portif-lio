@@ -3,7 +3,7 @@ let mostraHTML = document.getElementById("mostraHTML");
 
     function contador(){
 
-cliques ++;
+cliques++;
 
     mostraHTML.innerHTML = `<p> Numero de cliques: ${cliques}</p>`;
     console.log(cliques);
