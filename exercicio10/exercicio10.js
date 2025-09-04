@@ -10,6 +10,7 @@ function comecar(){
                 } else {
                     mostraHTML.innerHTML += <p> ${contador} </p>; 
                 }
+                
                 contador++;
             }
 
