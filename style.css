@@ -1,6 +1,6 @@
 header  {
     text-align: center;
-   background-color: rgb(77, 125, 214);
+   background-color: cornflowerblue;
     padding: 50px;
 }
 h1  {
@@ -37,7 +37,7 @@ li  {
 }
 
 footer  {
-    background-color: rgb(81, 133, 230);
+    background-color: rgb(69, 108, 182);
     text-align: center;
     padding: 20px 0 30px;
 }
